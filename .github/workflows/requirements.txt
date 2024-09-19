@@ -1,5 +1,6 @@
-pydantic
 fastapi
 uvicorn
-python-multipart
-websockets
+firebase-admin
+pydantic
+pytest
+pytest-cov
